@@ -13259,26 +13259,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mehrdad\\.nuget\\packages\\": {},
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehrdad\\Source\\Repos\\NewRetail\\NewRetail\\NewRetail.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Source\\Repos\\NewRetail\\NewRetail\\NewRetail.csproj",
       "projectName": "NewRetail",
-      "projectPath": "C:\\Users\\Mehrdad\\Source\\Repos\\NewRetail\\NewRetail\\NewRetail.csproj",
-      "packagesPath": "C:\\Users\\Mehrdad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehrdad\\Source\\Repos\\NewRetail\\NewRetail\\obj\\",
+      "projectPath": "C:\\Users\\alexa\\Source\\Repos\\NewRetail\\NewRetail\\NewRetail.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\Source\\Repos\\NewRetail\\NewRetail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mehrdad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

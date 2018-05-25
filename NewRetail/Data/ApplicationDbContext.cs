@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using NewRetail.Models;
+using NewRetail.Models.Store;
 
 namespace NewRetail.Data
 {
@@ -22,5 +23,9 @@ namespace NewRetail.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
         }
+
+        public DbSet<NewRetail.Models.Store.Product> Product { get; set; }
+
+        public DbSet<NewRetail.Models.Store.Price> Price { get; set; }
     }
 }
