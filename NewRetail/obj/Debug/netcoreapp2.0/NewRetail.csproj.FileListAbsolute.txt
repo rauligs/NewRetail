@@ -1,0 +1,12 @@
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\bin\Debug\netcoreapp2.0\NewRetail.deps.json
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\bin\Debug\netcoreapp2.0\NewRetail.runtimeconfig.json
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\bin\Debug\netcoreapp2.0\NewRetail.runtimeconfig.dev.json
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\bin\Debug\netcoreapp2.0\NewRetail.dll
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\bin\Debug\netcoreapp2.0\NewRetail.pdb
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.AssemblyInfoInputs.cache
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.AssemblyInfo.cs
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.dll
+C:\Users\alexa\Source\Repos\NewRetail\NewRetail\obj\Debug\netcoreapp2.0\NewRetail.pdb
